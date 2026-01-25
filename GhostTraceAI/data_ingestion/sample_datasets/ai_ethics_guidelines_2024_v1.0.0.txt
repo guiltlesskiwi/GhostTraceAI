@@ -1,0 +1,14 @@
+
+AI ETHICS GUIDELINES
+
+Bias Testing:
+Mandatory dataset audits.
+
+Transparency:
+Explainable AI models preferred.
+
+Human Oversight:
+Critical decisions require manual approval.
+
+Data Usage:
+Only consented datasets allowed.

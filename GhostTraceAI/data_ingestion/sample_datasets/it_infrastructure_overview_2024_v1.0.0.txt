@@ -1,0 +1,14 @@
+
+IT INFRASTRUCTURE OVERVIEW – 2024
+
+Servers:
+AWS EC2 and Azure VMs.
+
+Databases:
+PostgreSQL, MongoDB, Redis.
+
+Backup:
+Daily incremental, weekly full backups.
+
+Monitoring:
+Prometheus and Grafana dashboards.

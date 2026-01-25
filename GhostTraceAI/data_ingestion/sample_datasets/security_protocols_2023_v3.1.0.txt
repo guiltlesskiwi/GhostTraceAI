@@ -1,0 +1,14 @@
+
+SECURITY PROTOCOLS – 2023
+
+Access Control:
+Role-based authentication.
+
+Network:
+Firewall, IDS, IPS enabled.
+
+Incident Handling:
+Isolate, report, investigate.
+
+Compliance:
+ISO 27001, GDPR, IT Act 2000.

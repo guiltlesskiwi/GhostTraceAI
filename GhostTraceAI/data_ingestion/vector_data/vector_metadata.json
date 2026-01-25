@@ -1,0 +1,162 @@
+[
+  {
+    "file": "webhook_events_v3.0.txt",
+    "path": "data_ingestion/sample_datasets/webhook_events_v3.0.txt",
+    "version": "3.0",
+    "deprecated": false,
+    "doc_type": "payment_api",
+    "ingested_at": "2026-01-25T13:59:53.758098"
+  },
+  {
+    "file": "config_options_v3.0.txt",
+    "path": "data_ingestion/sample_datasets/config_options_v3.0.txt",
+    "version": "3.0",
+    "deprecated": false,
+    "doc_type": "webhook",
+    "ingested_at": "2026-01-25T13:59:53.758141"
+  },
+  {
+    "file": "payment_api_v1.0_2021.txt",
+    "path": "data_ingestion/sample_datasets/payment_api_v1.0_2021.txt",
+    "version": "1.0",
+    "deprecated": true,
+    "doc_type": "payment_api",
+    "ingested_at": "2026-01-25T13:59:53.758174"
+  },
+  {
+    "file": "company_policy_2023_v1.2.1.txt",
+    "path": "data_ingestion/sample_datasets/company_policy_2023_v1.2.1.txt",
+    "version": "unknown",
+    "deprecated": false,
+    "doc_type": "config",
+    "ingested_at": "2026-01-25T13:59:53.758217"
+  },
+  {
+    "file": "sales_strategy_2024_v2.0.0.txt",
+    "path": "data_ingestion/sample_datasets/sales_strategy_2024_v2.0.0.txt",
+    "version": "unknown",
+    "deprecated": false,
+    "doc_type": "config",
+    "ingested_at": "2026-01-25T13:59:53.758266"
+  },
+  {
+    "file": "ai_ethics_guidelines_2024_v1.0.0.txt",
+    "path": "data_ingestion/sample_datasets/ai_ethics_guidelines_2024_v1.0.0.txt",
+    "version": "unknown",
+    "deprecated": false,
+    "doc_type": "config",
+    "ingested_at": "2026-01-25T13:59:53.758313"
+  },
+  {
+    "file": "quarterly_report_Q4_2023_v1.5.0.txt",
+    "path": "data_ingestion/sample_datasets/quarterly_report_Q4_2023_v1.5.0.txt",
+    "version": "unknown",
+    "deprecated": false,
+    "doc_type": "config",
+    "ingested_at": "2026-01-25T13:59:53.758369"
+  },
+  {
+    "file": "employee_handbook_2024_v1.0.0.txt",
+    "path": "data_ingestion/sample_datasets/employee_handbook_2024_v1.0.0.txt",
+    "version": "unknown",
+    "deprecated": false,
+    "doc_type": "config",
+    "ingested_at": "2026-01-25T13:59:53.758428"
+  },
+  {
+    "file": "payment_api_v3.0_2024.txt",
+    "path": "data_ingestion/sample_datasets/payment_api_v3.0_2024.txt",
+    "version": "3.0",
+    "deprecated": false,
+    "doc_type": "payment_api",
+    "ingested_at": "2026-01-25T13:59:53.758477"
+  },
+  {
+    "file": "auth_api_v1.0_2021.txt",
+    "path": "data_ingestion/sample_datasets/auth_api_v1.0_2021.txt",
+    "version": "1.0",
+    "deprecated": false,
+    "doc_type": "auth_api",
+    "ingested_at": "2026-01-25T13:59:53.758518"
+  },
+  {
+    "file": "payroll_and_compensation_policy_2024_v1.0.0.txt",
+    "path": "data_ingestion/sample_datasets/payroll_and_compensation_policy_2024_v1.0.0.txt",
+    "version": "unknown",
+    "deprecated": false,
+    "doc_type": "config",
+    "ingested_at": "2026-01-25T13:59:53.758551"
+  },
+  {
+    "file": "deprecation_notice_2024.txt",
+    "path": "data_ingestion/sample_datasets/deprecation_notice_2024.txt",
+    "version": "unknown",
+    "deprecated": true,
+    "doc_type": "sdk",
+    "ingested_at": "2026-01-25T13:59:53.758581"
+  },
+  {
+    "file": "security_protocols_2023_v3.1.0.txt",
+    "path": "data_ingestion/sample_datasets/security_protocols_2023_v3.1.0.txt",
+    "version": "unknown",
+    "deprecated": false,
+    "doc_type": "auth_api",
+    "ingested_at": "2026-01-25T13:59:53.758616"
+  },
+  {
+    "file": "migration_guide_v1_to_v3.txt",
+    "path": "data_ingestion/sample_datasets/migration_guide_v1_to_v3.txt",
+    "version": "unknown",
+    "deprecated": false,
+    "doc_type": "payment_api",
+    "ingested_at": "2026-01-25T13:59:53.758645"
+  },
+  {
+    "file": "it_infrastructure_overview_2024_v1.0.0.txt",
+    "path": "data_ingestion/sample_datasets/it_infrastructure_overview_2024_v1.0.0.txt",
+    "version": "unknown",
+    "deprecated": false,
+    "doc_type": "config",
+    "ingested_at": "2026-01-25T13:59:53.758681"
+  },
+  {
+    "file": "financial_report_2022_v2.0.0.txt",
+    "path": "data_ingestion/sample_datasets/financial_report_2022_v2.0.0.txt",
+    "version": "unknown",
+    "deprecated": false,
+    "doc_type": "config",
+    "ingested_at": "2026-01-25T13:59:53.758714"
+  },
+  {
+    "file": "rate_limits_v3.0.txt",
+    "path": "data_ingestion/sample_datasets/rate_limits_v3.0.txt",
+    "version": "3.0",
+    "deprecated": false,
+    "doc_type": "config",
+    "ingested_at": "2026-01-25T13:59:53.758743"
+  },
+  {
+    "file": "payment_api_v2.0_2022.txt",
+    "path": "data_ingestion/sample_datasets/payment_api_v2.0_2022.txt",
+    "version": "2.0",
+    "deprecated": false,
+    "doc_type": "payment_api",
+    "ingested_at": "2026-01-25T13:59:53.758772"
+  },
+  {
+    "file": "sdk_android_v2.0_guide.txt",
+    "path": "data_ingestion/sample_datasets/sdk_android_v2.0_guide.txt",
+    "version": "2.0",
+    "deprecated": false,
+    "doc_type": "payment_api",
+    "ingested_at": "2026-01-25T13:59:53.758799"
+  },
+  {
+    "file": "legal_compliance_policy_2023_v1.1.0.txt",
+    "path": "data_ingestion/sample_datasets/legal_compliance_policy_2023_v1.1.0.txt",
+    "version": "unknown",
+    "deprecated": false,
+    "doc_type": "config",
+    "ingested_at": "2026-01-25T13:59:53.758837"
+  }
+]
