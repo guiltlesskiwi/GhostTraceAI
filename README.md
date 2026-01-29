@@ -3,7 +3,7 @@ Status: MVP Demo (Under Active Development 🚀)
 
 Because AI chatbots don't know when their **docs** have expired.
 
-# FOR MORE DETAILED INFO GO THROUGH THE CONTENT IN DOCS FOLDER
+# FOR MORE DETAILED INFO GO THROUGH THE CONTENT OF PPT IN DOCS FOLDER
 
 ***
 
